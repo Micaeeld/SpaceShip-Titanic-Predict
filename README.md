@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Spaceship Titanic
 This notebook features a solution to the "Titanic: Machine Learning from Disaster" challenge available on Kaggle. The objective of this challenge is to create a machine learning model capable of predicting whether or not a passenger survived the sinking of the Titanic.
 
